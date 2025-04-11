@@ -94,6 +94,8 @@ console.table(productos); //Imprime por consola la funcion compuesta
 */
 
 
+console.log ("Esto es un cambio para probar")
+
 
 
 
